@@ -1,0 +1,43 @@
+{
+  "name": "one-darker-theme",
+  "displayName": "One Darker Theme",
+  "description": "Darker One Dark theme: Combination of the One Dark & GitHub Dark themes.",
+  "publisher": "aboqasem",
+  "author": "Mohammad Al Zouabi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aboqasem/vscode-one-darker-theme.git"
+  },
+  "homepage": "https://github.com/aboqasem/vscode-one-darker-theme#readme",
+  "bugs": {
+    "url": "https://github.com/one-dark/vscode-one-dark-theme/issues"
+  },
+  "keywords": [
+    "one-dark",
+    "github-dark",
+    "vscode-theme",
+    "vscode"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "static/icon.png",
+  "galleryBanner": {
+    "color": "#0d1117",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Darker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-darker-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
