@@ -692,7 +692,7 @@
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#EF596F"
       }
     },
     {
@@ -704,7 +704,7 @@
         "string.url"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2BBAC5"
       }
     },
     {
@@ -729,7 +729,7 @@
         "support.type.property-name.css"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#BBBBBB"
       }
     },
     {
@@ -741,7 +741,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#89CA78"
       }
     },
     {
@@ -760,7 +760,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#D55FDE"
       }
     },
     {
