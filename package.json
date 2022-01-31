@@ -1,7 +1,7 @@
 {
   "name": "one-darker-theme",
   "displayName": "One Darker Theme",
-  "description": "A combination of the colorful text in One Dark and the dark look of GitHub Dark themes.",
+  "description": "A combination of the colorful text in One Dark and the dark look of GitHub Dark Default themes.",
   "publisher": "aboqasem",
   "author": "Mohammad Al Zouabi",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/aboqasem/vscode-one-darker-theme#readme",
   "bugs": {
-    "url": "https://github.com/one-dark/vscode-one-dark-theme/issues"
+    "url": "https://github.com/aboqasem/vscode-one-darker-theme/issues"
   },
   "keywords": [
     "one-dark",
